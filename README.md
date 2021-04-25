@@ -7,4 +7,4 @@ _Inputs_: **key** - column to be sorted by, the column number.
         **full file name** - file in CSV format, path included
         
 _Output_: **sorted new file** according to given key parameter in new directory - "SortFile\Sorted.csv"
-<img src="https://github.com/Sahar-Goldman/SortCSVFileByColumn/blob/master/csv_sort.PNG">
+<img src="https://github.com/Sahar-Goldman/SortCSVFileByColumn/blob/main/csv_sort.PNG">
